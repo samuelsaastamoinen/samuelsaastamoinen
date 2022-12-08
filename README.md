@@ -1,7 +1,6 @@
 <p align=center>
- <img src="https://wallpapercave.com/dwp1x/wp6659637.jpg"> 
+ <img src = "Images/kuvagittii.jpg">
 </p>
-
 <!--
 **samuelsaastamoinen/samuelsaastamoinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
